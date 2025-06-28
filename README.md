@@ -1,16 +1,32 @@
-# google_maps
+# 🌍 Wander Wise – Smart Penang Tour Guide App
 
-A new Flutter project.
+Wander Wise is a Flutter-based mobile application designed to serve as a smart tour guide specifically for Penang, Malaysia. It helps travelers explore nearby attractions, find commonly used local apps, and understand Malay-language signage through integrated camera-based text recognition and translation features.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🗺️ **Google Maps Integration**  
+  View selected destinations on a map with markers and navigate using redirection to Google Maps.
 
-A few resources to get you started if this is your first Flutter project:
+- 📷 **On-Device Text Recognition & Translation**  
+  Use the device camera to capture and instantly translate Malay text to English using Google ML Kit.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🏛️ **Tourist Information**  
+  Discover curated information about places to visit, accommodations, and dining in Penang.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📲 **Useful App Recommendations**  
+  Access frequently used apps in Malaysia (e.g., Grab, Foodpanda) with redirection to the Play Store.
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Android Studio or VS Code](https://flutter.dev/docs/development/tools/overview)
+- Android Emulator or physical Android device
+- Google Cloud Platform account to obtain Maps & ML Kit API key
+
+### Installation Steps
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/wander-wise.git
+   cd wander-wise
