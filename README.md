@@ -30,3 +30,5 @@ Wander Wise is a Flutter-based mobile application designed to serve as a smart t
    ```bash
    git clone https://github.com/your-username/wander-wise.git
    cd wander-wise
+
+**Made with ❤️ by Ashik**
