@@ -1,5 +1,6 @@
 # 🌍 Wander Wise – Smart Penang Tour Guide App
 
+![Hero Section](./images/app_mainpage.png)
 Wander Wise is a Flutter-based mobile application designed to serve as a smart tour guide specifically for Penang, Malaysia. It helps travelers explore nearby attractions, find commonly used local apps, and understand Malay-language signage through integrated camera-based text recognition and translation features.
 
 ## 📱 Features of the App
