@@ -1,5 +1,7 @@
 # 🌍 Wander Wise – Smart Penang Tour Guide App
 
+## 📱 Main page of the App
+
 ![Hero Section](./images/app_mainpage.png)
 
 
