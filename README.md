@@ -29,7 +29,7 @@ Wander Wise is a Flutter-based mobile application designed to serve as a smart t
 - Android Emulator or physical Android device
 - Google Cloud Platform account to obtain Maps & ML Kit API key
 
-### Installation Steps
+### How to Install
 
 1. **Clone the Repository**
    ```bash
